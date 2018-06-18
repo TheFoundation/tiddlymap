@@ -1,15 +1,6 @@
 created: 20180615032915917
-modified: 20180615032915917
+modified: 20180618225944063
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/Default/map
 type: text/vnd.tiddlywiki
 
-{
- "5f5630fe-f224-4db0-b0e7-b84f2ef0aa0c": {
-  "x": 0,
-  "y": 0
- },
- "4f756cec-6251-4366-b041-3311c9fb6bf6": {
-  "x": 100,
-  "y": 100
- }
-}
+{}

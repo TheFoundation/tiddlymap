@@ -1,6 +1,6 @@
 created: 20180615032915931
-filter:  [field:tmap.id[5f5630fe-f224-4db0-b0e7-b84f2ef0aa0c]] [field:tmap.id[4f756cec-6251-4366-b041-3311c9fb6bf6]]
-modified: 20180615032915931
+filter:  
+modified: 20180618225944093
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/Default/filter/nodes
 type: text/vnd.tiddlywiki
 
